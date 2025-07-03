@@ -8,6 +8,7 @@ kernel.string=
 kernel.compiler=
 kernel.made=
 kernel.version=
+message.word
 do.devicecheck=1
 do.modules=0
 do.systemless=1
